@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\APP\\Shipin-10\\demo_drm\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\APP\\Shipin-10\\demo_drm\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\APP\\Day0317\\demo_drm\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\APP\\Day0317\\demo_drm\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\workspace\\Shipin\\demo_drm\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\workspace\\Shipin\\demo_drm\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\workspace\\Shipin-10\\demo_drm\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\workspace\\Shipin-10\\demo_drm\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\workspace\\Day0317\\demo_drm\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\workspace\\Day0317\\demo_drm\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]

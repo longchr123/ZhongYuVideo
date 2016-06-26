@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "G:\\APP\\Day0121\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "G:\\APP\\Day0121\\demo\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\workspace\\Shipin-10\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "E:\\workspace\\Shipin-10\\demo\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\workspace\\Shipin\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "D:\\workspace\\Shipin\\demo\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\APP\\Day0121\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "E:\\APP\\Day0121\\demo\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\APP\\Shipin-10\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "E:\\APP\\Shipin-10\\demo\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    }
+]

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">中域教育</string>
+    <string name="welcome">欢迎加入中域教育</string>
+    <string name="translate">邀请码来自于中域教育集团总部，用于中域学员观看视频，输入邀请码之后激活成功即可进入视频首页观看。最终解释权归中域教育集团所属，如有任何疑问请拨打咨询电话。</string>
+    <string name="crash_toast_text">程序休息了，我们会尽快为您解决</string>
+    <string name="crash_dialog_title">程序已经休息</string>
+<string name="crash_dialog_text">程序异常休息，请在下面输入您的手机号，点击“确定”按钮，我们会及时和您联系谢谢！</string>
+    <string name="crash_dialog_comment_prompt">请输入您的手机号：</string>
+    <string name="crash_user_email_label"> </string>
+    <string name="AppTheme_Dialog"> </string>
+    <string name="crash_dialog_ok_toast">谢谢</string>
+</resources>

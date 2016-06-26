@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/colorMainTheam"
+        android:gravity="center"
+        android:text="@string/app_name"
+        android:textColor="@color/colorTextcolor"
+        android:textSize="20sp" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="120dp">
+
+                <android.support.v4.view.ViewPager
+                    android:id="@+id/vp"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
+
+                <TextView
+                    android:id="@+id/tv_top"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:background="#80c0c0c0"
+                    android:gravity="center"
+                    android:text="@string/app_name"
+                    android:textColor="#000000"
+                    android:textSize="18sp" />
+            </RelativeLayout>
+
+            <LinearLayout
+                android:id="@+id/lin"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="5dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="5dp"
+                    android:layout_height="match_parent"
+                    android:background="@color/colorMainTheam" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="5dp"
+                    android:padding="5dp"
+                    android:text="课程分类"
+                    android:textColor="@color/colorMainTheam"
+                    android:textSize="18sp" />
+            </LinearLayout>
+
+            <com.example.administrator.day0121.view.MyGridView
+                android:id="@+id/gv_kecheng"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="10dp"
+                android:horizontalSpacing="10dp"
+                android:numColumns="4"
+                android:scrollbars="none"
+                android:verticalSpacing="2dp">
+
+            </com.example.administrator.day0121.view.MyGridView>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="5dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="5dp"
+                    android:layout_height="match_parent"
+                    android:background="@color/colorMainTheam" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="5dp"
+                    android:padding="5dp"
+                    android:text="最新视频"
+                    android:textColor="@color/colorMainTheam"
+                    android:textSize="18sp" />
+            </LinearLayout>
+
+            <com.example.administrator.day0121.view.MyGridView
+                android:id="@+id/gv_xuexi"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="10dp"
+                android:horizontalSpacing="10dp"
+                android:numColumns="2"
+                android:scrollbars="none"
+                android:verticalSpacing="20dp">
+
+            </com.example.administrator.day0121.view.MyGridView>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

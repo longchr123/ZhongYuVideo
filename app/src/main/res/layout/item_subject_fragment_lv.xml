@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/tv_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:text="标题"
+            android:ellipsize="end"
+            android:maxLines="2"
+            android:textColor="@color/colorMainTheam"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="right">
+            <TextView
+                android:id="@+id/tv_load"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#ff0000"
+                android:padding="5dp"
+                android:background="@drawable/imageview_background"
+                android:textSize="16sp"
+                android:text="下载"/>
+            <TextView
+                android:id="@+id/tv_play"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:textColor="@color/colorMainTheam"
+                android:padding="5dp"
+                android:background="@drawable/imageview_background"
+                android:textSize="16sp"
+                android:text="播放"/>
+        </LinearLayout>
+    </LinearLayout>
+
+
+
+</LinearLayout>

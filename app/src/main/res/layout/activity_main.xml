@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+     tools:context=".MainActivity"
+    android:orientation="vertical"
+    >
+
+    <LinearLayout
+        android:id="@+id/lin"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+    </LinearLayout>
+    <RadioGroup
+        android:id="@+id/rg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="@color/colorMainTheam"
+        android:layout_alignParentBottom="true">
+        <RadioButton
+            android:id="@+id/rb_shouye"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:button="@null"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="中域教育"
+            android:checked="true"
+            android:textColor="@color/rb_textcolor"
+            android:drawableTop="@drawable/rb_shouye"/>
+        <RadioButton
+            android:id="@+id/rb_zixun"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:button="@null"
+            android:padding="5dp"
+            android:text="最新资讯"
+            android:textColor="@color/rb_textcolor"
+            android:gravity="center"
+            android:drawableTop="@drawable/rb_zixun"/>
+        <RadioButton
+            android:id="@+id/rb_down"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:button="@null"
+            android:text="下载管理"
+            android:padding="5dp"
+            android:textColor="@color/rb_textcolor"
+            android:gravity="center"
+            android:drawableTop="@drawable/rb_down"
+            android:visibility="gone"/>
+        <RadioButton
+            android:id="@+id/rb_geren"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:button="@null"
+            android:text="个人中心"
+            android:padding="5dp"
+            android:gravity="center"
+            android:textColor="@color/rb_textcolor"
+            android:drawableTop="@drawable/rb_geren"/>
+
+    </RadioGroup>
+</LinearLayout>

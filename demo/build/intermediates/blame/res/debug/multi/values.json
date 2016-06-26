@@ -1,0 +1,2802 @@
+[
+    {
+        "outputFile": "D:\\workspace\\Shipin\\demo\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 46,
+                    "endOffset": 97
+                },
+                "from": {
+                    "file": "D:\\workspace\\Shipin\\demo\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 366,
+                        "endColumn": 46,
+                        "endOffset": 408
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 102,
+                    "endColumn": 41,
+                    "endOffset": 139
+                },
+                "from": {
+                    "file": "D:\\workspace\\Shipin\\demo\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 100,
+                        "endColumn": 41,
+                        "endOffset": 137
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 144,
+                    "endColumn": 40,
+                    "endOffset": 180
+                },
+                "from": {
+                    "file": "D:\\workspace\\Shipin\\demo\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 143,
+                        "endColumn": 40,
+                        "endOffset": 179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 185,
+                    "endColumn": 48,
+                    "endOffset": 229
+                },
+                "from": {
+                    "file": "D:\\workspace\\Shipin\\demo\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 316,
+                        "endColumn": 48,
+                        "endOffset": 360
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 234,
+                    "endColumn": 41,
+                    "endOffset": 271
+                },
+                "from": {
+                    "file": "D:\\workspace\\Shipin\\demo\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 185,
+                        "endColumn": 41,
+                        "endOffset": 222
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 276,
+                    "endColumn": 45,
+                    "endOffset": 317
+                },
+                "from": {
+                    "file": "D:\\workspace\\Shipin\\demo\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 269,
+                        "endColumn": 45,
+                        "endOffset": 310
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 322,
+                    "endColumn": 39,
+                    "endOffset": 357
+                },
+                "from": {
+                    "file": "D:\\workspace\\Shipin\\demo\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 228,
+                        "endColumn": 39,
+                        "endOffset": 263
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 362,
+                    "endColumn": 41,
+                    "endOffset": 399
+                },
+                "from": {
+                    "file": "D:\\workspace\\Shipin\\demo\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 458,
+                        "endColumn": 41,
+                        "endOffset": 495
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 404,
+                    "endColumn": 41,
+                    "endOffset": 441
+                },
+                "from": {
+                    "file": "D:\\workspace\\Shipin\\demo\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 41,
+                        "endOffset": 94
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 446,
+                    "endColumn": 42,
+                    "endOffset": 484
+                },
+                "from": {
+                    "file": "D:\\workspace\\Shipin\\demo\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 414,
+                        "endColumn": 42,
+                        "endOffset": 452
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 489,
+                    "endColumn": 57,
+                    "endOffset": 542
+                },
+                "from": {
+                    "file": "D:\\workspace\\Shipin\\demo\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 547,
+                    "endColumn": 55,
+                    "endOffset": 598
+                },
+                "from": {
+                    "file": "D:\\workspace\\Shipin\\demo\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 603,
+                    "endColumn": 40,
+                    "endOffset": 639
+                },
+                "from": {
+                    "file": "D:\\workspace\\Shipin\\demo\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 299,
+                        "endColumn": 40,
+                        "endOffset": 335
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 644,
+                    "endColumn": 48,
+                    "endOffset": 688
+                },
+                "from": {
+                    "file": "D:\\workspace\\Shipin\\demo\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 204,
+                        "endColumn": 48,
+                        "endOffset": 248
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 693,
+                    "endColumn": 45,
+                    "endOffset": 734
+                },
+                "from": {
+                    "file": "D:\\workspace\\Shipin\\demo\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 253,
+                        "endColumn": 45,
+                        "endOffset": 294
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 739,
+                    "endColumn": 45,
+                    "endOffset": 780
+                },
+                "from": {
+                    "file": "D:\\workspace\\Shipin\\demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 491,
+                        "endColumn": 45,
+                        "endOffset": 532
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 785,
+                    "endColumn": 52,
+                    "endOffset": 833
+                },
+                "from": {
+                    "file": "D:\\workspace\\Shipin\\demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 98,
+                        "endColumn": 52,
+                        "endOffset": 146
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 838,
+                    "endColumn": 41,
+                    "endOffset": 875
+                },
+                "from": {
+                    "file": "D:\\workspace\\Shipin\\demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 41,
+                        "endOffset": 93
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 880,
+                    "endColumn": 42,
+                    "endOffset": 918
+                },
+                "from": {
+                    "file": "D:\\workspace\\Shipin\\demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 371,
+                        "endColumn": 42,
+                        "endOffset": 409
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 923,
+                    "endColumn": 41,
+                    "endOffset": 960
+                },
+                "from": {
+                    "file": "D:\\workspace\\Shipin\\demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 41,
+                        "endOffset": 188
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 965,
+                    "endColumn": 46,
+                    "endOffset": 1007
+                },
+                "from": {
+                    "file": "D:\\workspace\\Shipin\\demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 280,
+                        "endColumn": 46,
+                        "endOffset": 322
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1012,
+                    "endColumn": 52,
+                    "endOffset": 1060
+                },
+                "from": {
+                    "file": "D:\\workspace\\Shipin\\demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 537,
+                        "endColumn": 52,
+                        "endOffset": 585
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1065,
+                    "endColumn": 35,
+                    "endOffset": 1096
+                },
+                "from": {
+                    "file": "D:\\workspace\\Shipin\\demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 193,
+                        "endColumn": 35,
+                        "endOffset": 224
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1101,
+                    "endColumn": 43,
+                    "endOffset": 1140
+                },
+                "from": {
+                    "file": "D:\\workspace\\Shipin\\demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 327,
+                        "endColumn": 43,
+                        "endOffset": 366
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1145,
+                    "endColumn": 36,
+                    "endOffset": 1177
+                },
+                "from": {
+                    "file": "D:\\workspace\\Shipin\\demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 454,
+                        "endColumn": 36,
+                        "endOffset": 486
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1182,
+                    "endColumn": 39,
+                    "endOffset": 1217
+                },
+                "from": {
+                    "file": "D:\\workspace\\Shipin\\demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 414,
+                        "endColumn": 39,
+                        "endOffset": 449
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1222,
+                    "endColumn": 50,
+                    "endOffset": 1268
+                },
+                "from": {
+                    "file": "D:\\workspace\\Shipin\\demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 50,
+                        "endOffset": 275
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1273,
+                    "endLine": 35,
+                    "endColumn": 12,
+                    "endOffset": 1559
+                },
+                "from": {
+                    "file": "D:\\workspace\\Shipin\\demo\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 245,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 531
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1564,
+                    "endLine": 38,
+                    "endColumn": 12,
+                    "endOffset": 1745
+                },
+                "from": {
+                    "file": "D:\\workspace\\Shipin\\demo\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 569,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 750
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\APP\\Shipin-10\\demo\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 46,
+                    "endOffset": 97
+                },
+                "from": {
+                    "file": "E:\\APP\\Shipin-10\\demo\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 366,
+                        "endColumn": 46,
+                        "endOffset": 408
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 102,
+                    "endColumn": 41,
+                    "endOffset": 139
+                },
+                "from": {
+                    "file": "E:\\APP\\Shipin-10\\demo\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 100,
+                        "endColumn": 41,
+                        "endOffset": 137
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 144,
+                    "endColumn": 40,
+                    "endOffset": 180
+                },
+                "from": {
+                    "file": "E:\\APP\\Shipin-10\\demo\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 143,
+                        "endColumn": 40,
+                        "endOffset": 179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 185,
+                    "endColumn": 48,
+                    "endOffset": 229
+                },
+                "from": {
+                    "file": "E:\\APP\\Shipin-10\\demo\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 316,
+                        "endColumn": 48,
+                        "endOffset": 360
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 234,
+                    "endColumn": 41,
+                    "endOffset": 271
+                },
+                "from": {
+                    "file": "E:\\APP\\Shipin-10\\demo\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 185,
+                        "endColumn": 41,
+                        "endOffset": 222
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 276,
+                    "endColumn": 45,
+                    "endOffset": 317
+                },
+                "from": {
+                    "file": "E:\\APP\\Shipin-10\\demo\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 269,
+                        "endColumn": 45,
+                        "endOffset": 310
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 322,
+                    "endColumn": 39,
+                    "endOffset": 357
+                },
+                "from": {
+                    "file": "E:\\APP\\Shipin-10\\demo\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 228,
+                        "endColumn": 39,
+                        "endOffset": 263
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 362,
+                    "endColumn": 41,
+                    "endOffset": 399
+                },
+                "from": {
+                    "file": "E:\\APP\\Shipin-10\\demo\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 458,
+                        "endColumn": 41,
+                        "endOffset": 495
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 404,
+                    "endColumn": 41,
+                    "endOffset": 441
+                },
+                "from": {
+                    "file": "E:\\APP\\Shipin-10\\demo\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 41,
+                        "endOffset": 94
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 446,
+                    "endColumn": 42,
+                    "endOffset": 484
+                },
+                "from": {
+                    "file": "E:\\APP\\Shipin-10\\demo\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 414,
+                        "endColumn": 42,
+                        "endOffset": 452
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 489,
+                    "endColumn": 57,
+                    "endOffset": 542
+                },
+                "from": {
+                    "file": "E:\\APP\\Shipin-10\\demo\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 547,
+                    "endColumn": 55,
+                    "endOffset": 598
+                },
+                "from": {
+                    "file": "E:\\APP\\Shipin-10\\demo\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 603,
+                    "endColumn": 40,
+                    "endOffset": 639
+                },
+                "from": {
+                    "file": "E:\\APP\\Shipin-10\\demo\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 299,
+                        "endColumn": 40,
+                        "endOffset": 335
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 644,
+                    "endColumn": 48,
+                    "endOffset": 688
+                },
+                "from": {
+                    "file": "E:\\APP\\Shipin-10\\demo\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 204,
+                        "endColumn": 48,
+                        "endOffset": 248
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 693,
+                    "endColumn": 45,
+                    "endOffset": 734
+                },
+                "from": {
+                    "file": "E:\\APP\\Shipin-10\\demo\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 253,
+                        "endColumn": 45,
+                        "endOffset": 294
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 739,
+                    "endColumn": 45,
+                    "endOffset": 780
+                },
+                "from": {
+                    "file": "E:\\APP\\Shipin-10\\demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 491,
+                        "endColumn": 45,
+                        "endOffset": 532
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 785,
+                    "endColumn": 52,
+                    "endOffset": 833
+                },
+                "from": {
+                    "file": "E:\\APP\\Shipin-10\\demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 98,
+                        "endColumn": 52,
+                        "endOffset": 146
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 838,
+                    "endColumn": 41,
+                    "endOffset": 875
+                },
+                "from": {
+                    "file": "E:\\APP\\Shipin-10\\demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 41,
+                        "endOffset": 93
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 880,
+                    "endColumn": 42,
+                    "endOffset": 918
+                },
+                "from": {
+                    "file": "E:\\APP\\Shipin-10\\demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 371,
+                        "endColumn": 42,
+                        "endOffset": 409
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 923,
+                    "endColumn": 41,
+                    "endOffset": 960
+                },
+                "from": {
+                    "file": "E:\\APP\\Shipin-10\\demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 41,
+                        "endOffset": 188
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 965,
+                    "endColumn": 46,
+                    "endOffset": 1007
+                },
+                "from": {
+                    "file": "E:\\APP\\Shipin-10\\demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 280,
+                        "endColumn": 46,
+                        "endOffset": 322
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1012,
+                    "endColumn": 52,
+                    "endOffset": 1060
+                },
+                "from": {
+                    "file": "E:\\APP\\Shipin-10\\demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 537,
+                        "endColumn": 52,
+                        "endOffset": 585
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1065,
+                    "endColumn": 35,
+                    "endOffset": 1096
+                },
+                "from": {
+                    "file": "E:\\APP\\Shipin-10\\demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 193,
+                        "endColumn": 35,
+                        "endOffset": 224
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1101,
+                    "endColumn": 43,
+                    "endOffset": 1140
+                },
+                "from": {
+                    "file": "E:\\APP\\Shipin-10\\demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 327,
+                        "endColumn": 43,
+                        "endOffset": 366
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1145,
+                    "endColumn": 36,
+                    "endOffset": 1177
+                },
+                "from": {
+                    "file": "E:\\APP\\Shipin-10\\demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 454,
+                        "endColumn": 36,
+                        "endOffset": 486
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1182,
+                    "endColumn": 39,
+                    "endOffset": 1217
+                },
+                "from": {
+                    "file": "E:\\APP\\Shipin-10\\demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 414,
+                        "endColumn": 39,
+                        "endOffset": 449
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1222,
+                    "endColumn": 50,
+                    "endOffset": 1268
+                },
+                "from": {
+                    "file": "E:\\APP\\Shipin-10\\demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 50,
+                        "endOffset": 275
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1273,
+                    "endLine": 35,
+                    "endColumn": 12,
+                    "endOffset": 1559
+                },
+                "from": {
+                    "file": "E:\\APP\\Shipin-10\\demo\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 245,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 531
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1564,
+                    "endLine": 38,
+                    "endColumn": 12,
+                    "endOffset": 1745
+                },
+                "from": {
+                    "file": "E:\\APP\\Shipin-10\\demo\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 569,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 750
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\workspace\\Shipin-10\\demo\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 46,
+                    "endOffset": 97
+                },
+                "from": {
+                    "file": "E:\\workspace\\Shipin-10\\demo\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 366,
+                        "endColumn": 46,
+                        "endOffset": 408
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 102,
+                    "endColumn": 41,
+                    "endOffset": 139
+                },
+                "from": {
+                    "file": "E:\\workspace\\Shipin-10\\demo\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 100,
+                        "endColumn": 41,
+                        "endOffset": 137
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 144,
+                    "endColumn": 40,
+                    "endOffset": 180
+                },
+                "from": {
+                    "file": "E:\\workspace\\Shipin-10\\demo\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 143,
+                        "endColumn": 40,
+                        "endOffset": 179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 185,
+                    "endColumn": 48,
+                    "endOffset": 229
+                },
+                "from": {
+                    "file": "E:\\workspace\\Shipin-10\\demo\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 316,
+                        "endColumn": 48,
+                        "endOffset": 360
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 234,
+                    "endColumn": 41,
+                    "endOffset": 271
+                },
+                "from": {
+                    "file": "E:\\workspace\\Shipin-10\\demo\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 185,
+                        "endColumn": 41,
+                        "endOffset": 222
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 276,
+                    "endColumn": 45,
+                    "endOffset": 317
+                },
+                "from": {
+                    "file": "E:\\workspace\\Shipin-10\\demo\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 269,
+                        "endColumn": 45,
+                        "endOffset": 310
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 322,
+                    "endColumn": 39,
+                    "endOffset": 357
+                },
+                "from": {
+                    "file": "E:\\workspace\\Shipin-10\\demo\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 228,
+                        "endColumn": 39,
+                        "endOffset": 263
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 362,
+                    "endColumn": 41,
+                    "endOffset": 399
+                },
+                "from": {
+                    "file": "E:\\workspace\\Shipin-10\\demo\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 458,
+                        "endColumn": 41,
+                        "endOffset": 495
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 404,
+                    "endColumn": 41,
+                    "endOffset": 441
+                },
+                "from": {
+                    "file": "E:\\workspace\\Shipin-10\\demo\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 41,
+                        "endOffset": 94
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 446,
+                    "endColumn": 42,
+                    "endOffset": 484
+                },
+                "from": {
+                    "file": "E:\\workspace\\Shipin-10\\demo\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 414,
+                        "endColumn": 42,
+                        "endOffset": 452
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 489,
+                    "endColumn": 57,
+                    "endOffset": 542
+                },
+                "from": {
+                    "file": "E:\\workspace\\Shipin-10\\demo\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 547,
+                    "endColumn": 55,
+                    "endOffset": 598
+                },
+                "from": {
+                    "file": "E:\\workspace\\Shipin-10\\demo\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 603,
+                    "endColumn": 40,
+                    "endOffset": 639
+                },
+                "from": {
+                    "file": "E:\\workspace\\Shipin-10\\demo\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 299,
+                        "endColumn": 40,
+                        "endOffset": 335
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 644,
+                    "endColumn": 48,
+                    "endOffset": 688
+                },
+                "from": {
+                    "file": "E:\\workspace\\Shipin-10\\demo\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 204,
+                        "endColumn": 48,
+                        "endOffset": 248
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 693,
+                    "endColumn": 45,
+                    "endOffset": 734
+                },
+                "from": {
+                    "file": "E:\\workspace\\Shipin-10\\demo\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 253,
+                        "endColumn": 45,
+                        "endOffset": 294
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 739,
+                    "endColumn": 45,
+                    "endOffset": 780
+                },
+                "from": {
+                    "file": "E:\\workspace\\Shipin-10\\demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 491,
+                        "endColumn": 45,
+                        "endOffset": 532
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 785,
+                    "endColumn": 52,
+                    "endOffset": 833
+                },
+                "from": {
+                    "file": "E:\\workspace\\Shipin-10\\demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 98,
+                        "endColumn": 52,
+                        "endOffset": 146
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 838,
+                    "endColumn": 41,
+                    "endOffset": 875
+                },
+                "from": {
+                    "file": "E:\\workspace\\Shipin-10\\demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 41,
+                        "endOffset": 93
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 880,
+                    "endColumn": 42,
+                    "endOffset": 918
+                },
+                "from": {
+                    "file": "E:\\workspace\\Shipin-10\\demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 371,
+                        "endColumn": 42,
+                        "endOffset": 409
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 923,
+                    "endColumn": 41,
+                    "endOffset": 960
+                },
+                "from": {
+                    "file": "E:\\workspace\\Shipin-10\\demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 41,
+                        "endOffset": 188
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 965,
+                    "endColumn": 46,
+                    "endOffset": 1007
+                },
+                "from": {
+                    "file": "E:\\workspace\\Shipin-10\\demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 280,
+                        "endColumn": 46,
+                        "endOffset": 322
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1012,
+                    "endColumn": 52,
+                    "endOffset": 1060
+                },
+                "from": {
+                    "file": "E:\\workspace\\Shipin-10\\demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 537,
+                        "endColumn": 52,
+                        "endOffset": 585
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1065,
+                    "endColumn": 35,
+                    "endOffset": 1096
+                },
+                "from": {
+                    "file": "E:\\workspace\\Shipin-10\\demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 193,
+                        "endColumn": 35,
+                        "endOffset": 224
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1101,
+                    "endColumn": 43,
+                    "endOffset": 1140
+                },
+                "from": {
+                    "file": "E:\\workspace\\Shipin-10\\demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 327,
+                        "endColumn": 43,
+                        "endOffset": 366
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1145,
+                    "endColumn": 36,
+                    "endOffset": 1177
+                },
+                "from": {
+                    "file": "E:\\workspace\\Shipin-10\\demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 454,
+                        "endColumn": 36,
+                        "endOffset": 486
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1182,
+                    "endColumn": 39,
+                    "endOffset": 1217
+                },
+                "from": {
+                    "file": "E:\\workspace\\Shipin-10\\demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 414,
+                        "endColumn": 39,
+                        "endOffset": 449
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1222,
+                    "endColumn": 50,
+                    "endOffset": 1268
+                },
+                "from": {
+                    "file": "E:\\workspace\\Shipin-10\\demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 50,
+                        "endOffset": 275
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1273,
+                    "endLine": 35,
+                    "endColumn": 12,
+                    "endOffset": 1559
+                },
+                "from": {
+                    "file": "E:\\workspace\\Shipin-10\\demo\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 245,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 531
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1564,
+                    "endLine": 38,
+                    "endColumn": 12,
+                    "endOffset": 1745
+                },
+                "from": {
+                    "file": "E:\\workspace\\Shipin-10\\demo\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 569,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 750
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\APP\\Day0121\\demo\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 46,
+                    "endOffset": 97
+                },
+                "from": {
+                    "file": "E:\\APP\\Day0121\\demo\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 366,
+                        "endColumn": 46,
+                        "endOffset": 408
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 102,
+                    "endColumn": 41,
+                    "endOffset": 139
+                },
+                "from": {
+                    "file": "E:\\APP\\Day0121\\demo\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 100,
+                        "endColumn": 41,
+                        "endOffset": 137
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 144,
+                    "endColumn": 40,
+                    "endOffset": 180
+                },
+                "from": {
+                    "file": "E:\\APP\\Day0121\\demo\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 143,
+                        "endColumn": 40,
+                        "endOffset": 179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 185,
+                    "endColumn": 48,
+                    "endOffset": 229
+                },
+                "from": {
+                    "file": "E:\\APP\\Day0121\\demo\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 316,
+                        "endColumn": 48,
+                        "endOffset": 360
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 234,
+                    "endColumn": 41,
+                    "endOffset": 271
+                },
+                "from": {
+                    "file": "E:\\APP\\Day0121\\demo\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 185,
+                        "endColumn": 41,
+                        "endOffset": 222
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 276,
+                    "endColumn": 45,
+                    "endOffset": 317
+                },
+                "from": {
+                    "file": "E:\\APP\\Day0121\\demo\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 269,
+                        "endColumn": 45,
+                        "endOffset": 310
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 322,
+                    "endColumn": 39,
+                    "endOffset": 357
+                },
+                "from": {
+                    "file": "E:\\APP\\Day0121\\demo\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 228,
+                        "endColumn": 39,
+                        "endOffset": 263
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 362,
+                    "endColumn": 41,
+                    "endOffset": 399
+                },
+                "from": {
+                    "file": "E:\\APP\\Day0121\\demo\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 458,
+                        "endColumn": 41,
+                        "endOffset": 495
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 404,
+                    "endColumn": 41,
+                    "endOffset": 441
+                },
+                "from": {
+                    "file": "E:\\APP\\Day0121\\demo\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 41,
+                        "endOffset": 94
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 446,
+                    "endColumn": 42,
+                    "endOffset": 484
+                },
+                "from": {
+                    "file": "E:\\APP\\Day0121\\demo\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 414,
+                        "endColumn": 42,
+                        "endOffset": 452
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 489,
+                    "endColumn": 57,
+                    "endOffset": 542
+                },
+                "from": {
+                    "file": "E:\\APP\\Day0121\\demo\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 547,
+                    "endColumn": 55,
+                    "endOffset": 598
+                },
+                "from": {
+                    "file": "E:\\APP\\Day0121\\demo\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 603,
+                    "endColumn": 40,
+                    "endOffset": 639
+                },
+                "from": {
+                    "file": "E:\\APP\\Day0121\\demo\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 299,
+                        "endColumn": 40,
+                        "endOffset": 335
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 644,
+                    "endColumn": 48,
+                    "endOffset": 688
+                },
+                "from": {
+                    "file": "E:\\APP\\Day0121\\demo\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 204,
+                        "endColumn": 48,
+                        "endOffset": 248
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 693,
+                    "endColumn": 45,
+                    "endOffset": 734
+                },
+                "from": {
+                    "file": "E:\\APP\\Day0121\\demo\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 253,
+                        "endColumn": 45,
+                        "endOffset": 294
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 739,
+                    "endColumn": 45,
+                    "endOffset": 780
+                },
+                "from": {
+                    "file": "E:\\APP\\Day0121\\demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 491,
+                        "endColumn": 45,
+                        "endOffset": 532
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 785,
+                    "endColumn": 52,
+                    "endOffset": 833
+                },
+                "from": {
+                    "file": "E:\\APP\\Day0121\\demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 98,
+                        "endColumn": 52,
+                        "endOffset": 146
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 838,
+                    "endColumn": 41,
+                    "endOffset": 875
+                },
+                "from": {
+                    "file": "E:\\APP\\Day0121\\demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 41,
+                        "endOffset": 93
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 880,
+                    "endColumn": 42,
+                    "endOffset": 918
+                },
+                "from": {
+                    "file": "E:\\APP\\Day0121\\demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 371,
+                        "endColumn": 42,
+                        "endOffset": 409
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 923,
+                    "endColumn": 41,
+                    "endOffset": 960
+                },
+                "from": {
+                    "file": "E:\\APP\\Day0121\\demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 41,
+                        "endOffset": 188
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 965,
+                    "endColumn": 46,
+                    "endOffset": 1007
+                },
+                "from": {
+                    "file": "E:\\APP\\Day0121\\demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 280,
+                        "endColumn": 46,
+                        "endOffset": 322
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1012,
+                    "endColumn": 52,
+                    "endOffset": 1060
+                },
+                "from": {
+                    "file": "E:\\APP\\Day0121\\demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 537,
+                        "endColumn": 52,
+                        "endOffset": 585
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1065,
+                    "endColumn": 35,
+                    "endOffset": 1096
+                },
+                "from": {
+                    "file": "E:\\APP\\Day0121\\demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 193,
+                        "endColumn": 35,
+                        "endOffset": 224
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1101,
+                    "endColumn": 43,
+                    "endOffset": 1140
+                },
+                "from": {
+                    "file": "E:\\APP\\Day0121\\demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 327,
+                        "endColumn": 43,
+                        "endOffset": 366
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1145,
+                    "endColumn": 36,
+                    "endOffset": 1177
+                },
+                "from": {
+                    "file": "E:\\APP\\Day0121\\demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 454,
+                        "endColumn": 36,
+                        "endOffset": 486
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1182,
+                    "endColumn": 39,
+                    "endOffset": 1217
+                },
+                "from": {
+                    "file": "E:\\APP\\Day0121\\demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 414,
+                        "endColumn": 39,
+                        "endOffset": 449
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1222,
+                    "endColumn": 50,
+                    "endOffset": 1268
+                },
+                "from": {
+                    "file": "E:\\APP\\Day0121\\demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 50,
+                        "endOffset": 275
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1273,
+                    "endLine": 35,
+                    "endColumn": 12,
+                    "endOffset": 1559
+                },
+                "from": {
+                    "file": "E:\\APP\\Day0121\\demo\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 245,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 531
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1564,
+                    "endLine": 38,
+                    "endColumn": 12,
+                    "endOffset": 1745
+                },
+                "from": {
+                    "file": "E:\\APP\\Day0121\\demo\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 569,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 750
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "G:\\APP\\Day0121\\demo\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 46,
+                    "endOffset": 97
+                },
+                "from": {
+                    "file": "G:\\APP\\Day0121\\demo\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 366,
+                        "endColumn": 46,
+                        "endOffset": 408
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 102,
+                    "endColumn": 41,
+                    "endOffset": 139
+                },
+                "from": {
+                    "file": "G:\\APP\\Day0121\\demo\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 100,
+                        "endColumn": 41,
+                        "endOffset": 137
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 144,
+                    "endColumn": 40,
+                    "endOffset": 180
+                },
+                "from": {
+                    "file": "G:\\APP\\Day0121\\demo\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 143,
+                        "endColumn": 40,
+                        "endOffset": 179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 185,
+                    "endColumn": 48,
+                    "endOffset": 229
+                },
+                "from": {
+                    "file": "G:\\APP\\Day0121\\demo\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 316,
+                        "endColumn": 48,
+                        "endOffset": 360
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 234,
+                    "endColumn": 41,
+                    "endOffset": 271
+                },
+                "from": {
+                    "file": "G:\\APP\\Day0121\\demo\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 185,
+                        "endColumn": 41,
+                        "endOffset": 222
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 276,
+                    "endColumn": 45,
+                    "endOffset": 317
+                },
+                "from": {
+                    "file": "G:\\APP\\Day0121\\demo\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 269,
+                        "endColumn": 45,
+                        "endOffset": 310
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 322,
+                    "endColumn": 39,
+                    "endOffset": 357
+                },
+                "from": {
+                    "file": "G:\\APP\\Day0121\\demo\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 228,
+                        "endColumn": 39,
+                        "endOffset": 263
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 362,
+                    "endColumn": 41,
+                    "endOffset": 399
+                },
+                "from": {
+                    "file": "G:\\APP\\Day0121\\demo\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 458,
+                        "endColumn": 41,
+                        "endOffset": 495
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 404,
+                    "endColumn": 41,
+                    "endOffset": 441
+                },
+                "from": {
+                    "file": "G:\\APP\\Day0121\\demo\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 41,
+                        "endOffset": 94
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 446,
+                    "endColumn": 42,
+                    "endOffset": 484
+                },
+                "from": {
+                    "file": "G:\\APP\\Day0121\\demo\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 414,
+                        "endColumn": 42,
+                        "endOffset": 452
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 489,
+                    "endColumn": 57,
+                    "endOffset": 542
+                },
+                "from": {
+                    "file": "G:\\APP\\Day0121\\demo\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 547,
+                    "endColumn": 55,
+                    "endOffset": 598
+                },
+                "from": {
+                    "file": "G:\\APP\\Day0121\\demo\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 603,
+                    "endColumn": 40,
+                    "endOffset": 639
+                },
+                "from": {
+                    "file": "G:\\APP\\Day0121\\demo\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 299,
+                        "endColumn": 40,
+                        "endOffset": 335
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 644,
+                    "endColumn": 48,
+                    "endOffset": 688
+                },
+                "from": {
+                    "file": "G:\\APP\\Day0121\\demo\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 204,
+                        "endColumn": 48,
+                        "endOffset": 248
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 693,
+                    "endColumn": 45,
+                    "endOffset": 734
+                },
+                "from": {
+                    "file": "G:\\APP\\Day0121\\demo\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 253,
+                        "endColumn": 45,
+                        "endOffset": 294
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 739,
+                    "endColumn": 45,
+                    "endOffset": 780
+                },
+                "from": {
+                    "file": "G:\\APP\\Day0121\\demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 491,
+                        "endColumn": 45,
+                        "endOffset": 532
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 785,
+                    "endColumn": 52,
+                    "endOffset": 833
+                },
+                "from": {
+                    "file": "G:\\APP\\Day0121\\demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 98,
+                        "endColumn": 52,
+                        "endOffset": 146
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 838,
+                    "endColumn": 41,
+                    "endOffset": 875
+                },
+                "from": {
+                    "file": "G:\\APP\\Day0121\\demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 41,
+                        "endOffset": 93
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 880,
+                    "endColumn": 42,
+                    "endOffset": 918
+                },
+                "from": {
+                    "file": "G:\\APP\\Day0121\\demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 371,
+                        "endColumn": 42,
+                        "endOffset": 409
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 923,
+                    "endColumn": 41,
+                    "endOffset": 960
+                },
+                "from": {
+                    "file": "G:\\APP\\Day0121\\demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 41,
+                        "endOffset": 188
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 965,
+                    "endColumn": 46,
+                    "endOffset": 1007
+                },
+                "from": {
+                    "file": "G:\\APP\\Day0121\\demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 280,
+                        "endColumn": 46,
+                        "endOffset": 322
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1012,
+                    "endColumn": 52,
+                    "endOffset": 1060
+                },
+                "from": {
+                    "file": "G:\\APP\\Day0121\\demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 537,
+                        "endColumn": 52,
+                        "endOffset": 585
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1065,
+                    "endColumn": 35,
+                    "endOffset": 1096
+                },
+                "from": {
+                    "file": "G:\\APP\\Day0121\\demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 193,
+                        "endColumn": 35,
+                        "endOffset": 224
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1101,
+                    "endColumn": 43,
+                    "endOffset": 1140
+                },
+                "from": {
+                    "file": "G:\\APP\\Day0121\\demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 327,
+                        "endColumn": 43,
+                        "endOffset": 366
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1145,
+                    "endColumn": 36,
+                    "endOffset": 1177
+                },
+                "from": {
+                    "file": "G:\\APP\\Day0121\\demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 454,
+                        "endColumn": 36,
+                        "endOffset": 486
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1182,
+                    "endColumn": 39,
+                    "endOffset": 1217
+                },
+                "from": {
+                    "file": "G:\\APP\\Day0121\\demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 414,
+                        "endColumn": 39,
+                        "endOffset": 449
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1222,
+                    "endColumn": 50,
+                    "endOffset": 1268
+                },
+                "from": {
+                    "file": "G:\\APP\\Day0121\\demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 50,
+                        "endOffset": 275
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1273,
+                    "endLine": 35,
+                    "endColumn": 12,
+                    "endOffset": 1559
+                },
+                "from": {
+                    "file": "G:\\APP\\Day0121\\demo\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 245,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 531
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1564,
+                    "endLine": 38,
+                    "endColumn": 12,
+                    "endOffset": 1745
+                },
+                "from": {
+                    "file": "G:\\APP\\Day0121\\demo\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 569,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 750
+                    }
+                }
+            }
+        ]
+    }
+]

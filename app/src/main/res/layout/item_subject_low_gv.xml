@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/imageview_background"
+    android:padding="2dp">
+
+    <TextView
+        android:id="@+id/tv"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:gravity="center"
+        android:text="试用课程"
+        android:background="#000000"
+        android:textSize="18sp"
+        android:textColor="#ffffff"
+        android:padding="10dp"/>
+    <TextView
+        android:id="@+id/tv_listen"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="10dp"
+        android:textSize="18sp"
+        android:background="#ffff00"
+        android:text="试听"/>
+
+</LinearLayout>

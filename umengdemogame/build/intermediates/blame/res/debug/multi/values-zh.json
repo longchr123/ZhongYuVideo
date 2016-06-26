@@ -1,0 +1,501 @@
+[
+    {
+        "outputFile": "E:\\APP\\Shipin-10\\umengdemogame\\build\\intermediates\\res\\merged\\debug\\values-zh\\values-zh.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 41,
+                    "endOffset": 92
+                },
+                "from": {
+                    "file": "E:\\APP\\Shipin-10\\umengdemogame\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1160,
+                        "endColumn": 41,
+                        "endOffset": 1197
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 97,
+                    "endColumn": 42,
+                    "endOffset": 135
+                },
+                "from": {
+                    "file": "E:\\APP\\Shipin-10\\umengdemogame\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 42,
+                        "endOffset": 94
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 140,
+                    "endColumn": 42,
+                    "endOffset": 178
+                },
+                "from": {
+                    "file": "E:\\APP\\Shipin-10\\umengdemogame\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1245,
+                        "endColumn": 42,
+                        "endOffset": 1283
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 183,
+                    "endColumn": 48,
+                    "endOffset": 227
+                },
+                "from": {
+                    "file": "E:\\APP\\Shipin-10\\umengdemogame\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 284,
+                        "endColumn": 48,
+                        "endOffset": 328
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 232,
+                    "endColumn": 46,
+                    "endOffset": 274
+                },
+                "from": {
+                    "file": "E:\\APP\\Shipin-10\\umengdemogame\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 558,
+                        "endColumn": 46,
+                        "endOffset": 600
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 279,
+                    "endColumn": 43,
+                    "endOffset": 318
+                },
+                "from": {
+                    "file": "E:\\APP\\Shipin-10\\umengdemogame\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1059,
+                        "endColumn": 43,
+                        "endOffset": 1098
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 323,
+                    "endColumn": 47,
+                    "endOffset": 366
+                },
+                "from": {
+                    "file": "E:\\APP\\Shipin-10\\umengdemogame\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 969,
+                        "endColumn": 47,
+                        "endOffset": 1012
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 371,
+                    "endColumn": 42,
+                    "endOffset": 409
+                },
+                "from": {
+                    "file": "E:\\APP\\Shipin-10\\umengdemogame\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 730,
+                        "endColumn": 42,
+                        "endOffset": 768
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 414,
+                    "endColumn": 44,
+                    "endOffset": 454
+                },
+                "from": {
+                    "file": "E:\\APP\\Shipin-10\\umengdemogame\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 773,
+                        "endColumn": 44,
+                        "endOffset": 813
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 459,
+                    "endColumn": 42,
+                    "endOffset": 497
+                },
+                "from": {
+                    "file": "E:\\APP\\Shipin-10\\umengdemogame\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1202,
+                        "endColumn": 42,
+                        "endOffset": 1240
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 502,
+                    "endColumn": 47,
+                    "endOffset": 545
+                },
+                "from": {
+                    "file": "E:\\APP\\Shipin-10\\umengdemogame\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 818,
+                        "endColumn": 47,
+                        "endOffset": 861
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 550,
+                    "endColumn": 51,
+                    "endOffset": 597
+                },
+                "from": {
+                    "file": "E:\\APP\\Shipin-10\\umengdemogame\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 917,
+                        "endColumn": 51,
+                        "endOffset": 964
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 602,
+                    "endColumn": 43,
+                    "endOffset": 641
+                },
+                "from": {
+                    "file": "E:\\APP\\Shipin-10\\umengdemogame\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 686,
+                        "endColumn": 43,
+                        "endOffset": 725
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 646,
+                    "endColumn": 41,
+                    "endOffset": 683
+                },
+                "from": {
+                    "file": "E:\\APP\\Shipin-10\\umengdemogame\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1017,
+                        "endColumn": 41,
+                        "endOffset": 1054
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 688,
+                    "endColumn": 52,
+                    "endOffset": 736
+                },
+                "from": {
+                    "file": "E:\\APP\\Shipin-10\\umengdemogame\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 505,
+                        "endColumn": 52,
+                        "endOffset": 553
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 741,
+                    "endColumn": 47,
+                    "endOffset": 784
+                },
+                "from": {
+                    "file": "E:\\APP\\Shipin-10\\umengdemogame\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 190,
+                        "endColumn": 47,
+                        "endOffset": 233
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 789,
+                    "endColumn": 43,
+                    "endOffset": 828
+                },
+                "from": {
+                    "file": "E:\\APP\\Shipin-10\\umengdemogame\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 146,
+                        "endColumn": 43,
+                        "endOffset": 185
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 833,
+                    "endColumn": 45,
+                    "endOffset": 874
+                },
+                "from": {
+                    "file": "E:\\APP\\Shipin-10\\umengdemogame\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 238,
+                        "endColumn": 45,
+                        "endOffset": 279
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 879,
+                    "endColumn": 46,
+                    "endOffset": 921
+                },
+                "from": {
+                    "file": "E:\\APP\\Shipin-10\\umengdemogame\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 99,
+                        "endColumn": 46,
+                        "endOffset": 141
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 926,
+                    "endColumn": 50,
+                    "endOffset": 972
+                },
+                "from": {
+                    "file": "E:\\APP\\Shipin-10\\umengdemogame\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 866,
+                        "endColumn": 50,
+                        "endOffset": 912
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 977,
+                    "endColumn": 60,
+                    "endOffset": 1033
+                },
+                "from": {
+                    "file": "E:\\APP\\Shipin-10\\umengdemogame\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 333,
+                        "endColumn": 60,
+                        "endOffset": 389
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1038,
+                    "endColumn": 60,
+                    "endOffset": 1094
+                },
+                "from": {
+                    "file": "E:\\APP\\Shipin-10\\umengdemogame\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 394,
+                        "endColumn": 60,
+                        "endOffset": 450
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1099,
+                    "endColumn": 39,
+                    "endOffset": 1134
+                },
+                "from": {
+                    "file": "E:\\APP\\Shipin-10\\umengdemogame\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 605,
+                        "endColumn": 39,
+                        "endOffset": 640
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1139,
+                    "endColumn": 40,
+                    "endOffset": 1175
+                },
+                "from": {
+                    "file": "E:\\APP\\Shipin-10\\umengdemogame\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 645,
+                        "endColumn": 40,
+                        "endOffset": 681
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1180,
+                    "endColumn": 49,
+                    "endOffset": 1225
+                },
+                "from": {
+                    "file": "E:\\APP\\Shipin-10\\umengdemogame\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 455,
+                        "endColumn": 49,
+                        "endOffset": 500
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1230,
+                    "endColumn": 56,
+                    "endOffset": 1282
+                },
+                "from": {
+                    "file": "E:\\APP\\Shipin-10\\umengdemogame\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1103,
+                        "endColumn": 56,
+                        "endOffset": 1155
+                    }
+                }
+            }
+        ]
+    }
+]
